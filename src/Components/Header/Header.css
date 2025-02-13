@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
+body li , a{
+  list-style-type: none;
+    text-decoration: none;
+}
+
+nav {
+  background-color: #ccc;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 40px ;
+}
+nav ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  color: white;
+}
+nav ul a{
+  padding: 10px;
+  color: white;
+  font-size: 16px;
+}
