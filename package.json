@@ -2,7 +2,7 @@
   "name": "exercise_one",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://qazishahijahan.github.io/My-First_React-App",
+  "homepage": "https://qazishahijahan.github.io/My-First-React-App",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
